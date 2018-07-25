@@ -6,5 +6,5 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @Configuration
 @ComponentScan(basePackages="com.test.SpringDataJPA.dao")
-public class DBConfig {
+public class JPAConfig {
 }
