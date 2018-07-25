@@ -1,14 +1,13 @@
 package com.test.SpringDataJPA.web.controller;
 
-import com.test.SpringDataJPA.dao.UserRepository;
-import com.test.SpringDataJPA.entity.User;
+import com.test.SpringDataJPA.web.dao.UserRepository;
+import com.test.SpringDataJPA.web.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Consumer;
 
 @RestController
 @RequestMapping("/SpringDataJPA")

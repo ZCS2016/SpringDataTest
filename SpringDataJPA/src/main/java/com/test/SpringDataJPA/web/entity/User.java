@@ -1,4 +1,4 @@
-package com.test.SpringDataJPA.entity;
+package com.test.SpringDataJPA.web.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

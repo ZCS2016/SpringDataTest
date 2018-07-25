@@ -11,6 +11,7 @@
     <modules>
         <module>SpringDataJPA</module>
         <module>SpringDataRedis</module>
+        <module>SpringDataMongoDB</module>
     </modules>
 
 
