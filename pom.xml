@@ -14,6 +14,7 @@
         <module>SpringDataMongoDB</module>
         <module>SpringDataNeo4j</module>
         <module>SpringDataElasticsearch</module>
+        <module>SpringDataREST</module>
     </modules>
 
 
